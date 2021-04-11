@@ -1,4 +1,4 @@
-# CS225 Final Project Results
+Project Results
 
 To begin, our initial project goal was to find out how many people would be infected with covid-19 in a given time if a traveler who has the disease decided to travel. We used the openflights data of airports, which contains all the airports over the world and the routes that connect them. Since there are 235 airports and 6877 routes only within China, we decided that it was enough to conduct our tests in only China; however, as you can find in Readme, you can choose any other country of your interest.
 
